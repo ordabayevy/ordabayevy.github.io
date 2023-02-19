@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yerdos Ordabayev"
   avatar           : "profile.png"
-  bio              : "Machine Learning Scientist"
+  bio              : "Machine Learning Scientist at Broad Institute of MIT and Harvard"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "Broad Institute of MIT and Harvard"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=yerdos+ordabayev"
   googlescholar    : "https://scholar.google.com/citations?user=snIRwH0AAAAJ"
   email            :
