@@ -1,8 +1,13 @@
 ---
-layout: page
-title: PyTorch_Distributions_Continuous
+layout: archive
+title: "PyTorch Distributions (Continuous)"
 permalink: /PyTorch_Distributions_Continuous
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 # Optional Lab: Python, NumPy and Vectorization
 A brief introduction to some of the scientific computing used in this course. In particular the NumPy scientific computing package and its use with python.
